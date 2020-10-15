@@ -1,5 +1,4 @@
-This is a transpiler from MiniC to YUL based on the MicroC compiler given in
-class
+This is a transpiler from MiniC to YUL based on the MicroC compiler written by Ronghui Gu
 
 to build the transpiler, run "ocamlbuild transpiler.native" on the command
 line (bash)
