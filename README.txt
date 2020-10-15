@@ -1,6 +1,3 @@
-This folder contains all of our groupwork except for the report that should
-be submitted separately.
-
 The folder Demo_Code contains sample minic programs, as well as the
 transpiled YUL, outputted from our transpiler.
 
